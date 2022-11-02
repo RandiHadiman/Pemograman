@@ -33,6 +33,7 @@ dependencies:
   flutter:
     sdk: flutter
   fluttertoast: ^8.1.1
+  navigation: ^0.0.0
 
 dev_dependencies:
 
